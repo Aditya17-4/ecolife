@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    text-decoration: none;
+}
+.btn-11{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 2rem;
+    width:-20%;
+    border-radius:20px;
+}
+.btn-11:hover{
+    background-color: rgb(253, 153, 2);
+}
+.payment{
+    padding:20px;
+}

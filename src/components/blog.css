@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+
+}
+.Home{
+    padding: 10px;
+    text-align: center;
+    background-color:rgba(206, 197, 166, 0.842);
+    display: inline-block;
+}
+.blog-image{
+    padding: 20px 0px 20px 10px;
+    border-radius:22px;
+    background-color:rgb(12, 12, 12);
+}
+
+.blog-page-meta{
+    list-style-type: none;
+}
+.header-1{
+    font-family:Arial,
+    Helvetica,
+    sans-serif;
+    padding-top:15px;
+    font-size:24px;
+}
+.header{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top:15px;
+    font-size:24px;
+}
+.blog-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top:20px;
+    font-size:24px;
+}
+.blog-post-content-inner{
+    text-decoration: none;
+    padding: 5px;
+    display: inline;
+    text-align: center;
+}
+.content{
+    font-size:25px;
+    padding-top: 24px;
+    /* display: flex;
+    flex-direction:row; */
+    color: #fff;
+    font-family:'Courier New', Courier, monospace;
+}
+.single-blog-post{
+    background-color:rgb(139, 139, 139);
+    padding: 20px;
+}
